@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Snell Roundhand, cursive;
+}
+
+.wrapper {
+
+}
+
+body {
+    background: plum;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+#lifeislove {
+    color: rgb(147, 4, 147);
+}
+
+.lifeislove {
+    color: red;
+}
+.call-me {
+    text-align: right;
+    padding: 5px;
+    margin-right: 10px; 
+    font-size: 15px
+}
+
+.tel1 {
+    color: purple;
+    text-align: center;
+}
+
+.tletex {
+    font-size: 8px;
+    color: indigo;
+}
+
+.block{
+    margin: 40px;
+}
+
+.img1 {
+    width: 250px;
+    float: left;
+    margin: 10px;
+}
+
+.loveubaby {
+    padding-right: 10px;
+}
+
+#lvu {
+    margin: 7px;
+    text-align: center;
+    color: red;
+    font-size: 17px;
+    
+}
+
+.sites {
+    display: flex;
+    text-align: left;
+    font-size: 15px;
+    color:mediumorchid
+}
+
+.menu {
+
+    bottom: 20px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding-left: 250px;
+}
+
