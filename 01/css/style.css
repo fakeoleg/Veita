@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Snell Roundhand, cursive;
+}
+
+body {
+    background: plum;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.block1 {
+    display: flex;
+}
+
+.block2 {
+    display: flex;
+}
+
+.block3 {
+    display: flex;
+}
+
+
+.img1 {
+    width: 250px;
+    margin: 20px;
+    float: left;
+}
+
+.b1n1 {
+    display: flex;
+    border: 1px solid #000;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.b2n1 {
+    display: flex;
+    border: 1px solid #000;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.b3n1 {
+    display: flex;
+    border: 1px solid #000;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.question {
+    font-size: 8px; 
+}
